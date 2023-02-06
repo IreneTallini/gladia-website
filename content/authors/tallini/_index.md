@@ -23,7 +23,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: >
-    I'm a Computer Science PhD with Math Bachelor and passion. Right now I'm working on AI for Music.
+    I'm a Computer Science PhD with Math Bachelor and passion. Right now I am working on AI for Music.
     I like to sing, also.
 
 # Interests to show in About widget
